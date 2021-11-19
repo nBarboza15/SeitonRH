@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeitonRH", "SeitonRH\SeitonRH.csproj", "{28FE89F4-4638-4B70-A268-06D59D597ED0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{D43880CC-1603-4309-8507-EB70A4F069DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{37AE80B0-4D48-4504-BC8A-5E3DA7811B21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{28FE89F4-4638-4B70-A268-06D59D597ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28FE89F4-4638-4B70-A268-06D59D597ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28FE89F4-4638-4B70-A268-06D59D597ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43880CC-1603-4309-8507-EB70A4F069DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43880CC-1603-4309-8507-EB70A4F069DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43880CC-1603-4309-8507-EB70A4F069DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43880CC-1603-4309-8507-EB70A4F069DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37AE80B0-4D48-4504-BC8A-5E3DA7811B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AE80B0-4D48-4504-BC8A-5E3DA7811B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AE80B0-4D48-4504-BC8A-5E3DA7811B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AE80B0-4D48-4504-BC8A-5E3DA7811B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
